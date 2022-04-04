@@ -32,6 +32,15 @@ You can also transfer this session to a full screen experience by clicking Open 
 ```
 git clone https://github.com/Powerful845tiger/placebot-gcp
 ```
+* Go into `placebot-gcp` directory:
+```
+cd placebot-gcp
+```
+* Allow all commands executable:
+```
+chmod +x *
+```
+* Run the Installation Script:
 
 Create a virtual environment
 ```
