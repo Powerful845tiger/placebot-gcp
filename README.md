@@ -30,7 +30,7 @@ You can also transfer this session to a full screen experience by clicking Open 
 * Activate a [Google Cloud Shell](https://console.cloud.google.com/) on Google cloud.
 * Clone this GitHub Project into the Console:
 ```
-git clone https://github.com/Geosearchef/placebot.git
+git clone https://github.com/Powerful845tiger/placebot-gcp
 ```
 
 Create a virtual environment
