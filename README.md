@@ -1,6 +1,6 @@
 # placebot
 
-This is a functional bot for the r/place 2022 event, supporting at the time of writing all (2) canvases.
+This is a functional bot for the r/place 2022 event, supporting at the time of writing all (2) canvases using GCP
 
 Based on code from https://github.com/goatgoose/PlaceBot and https://github.com/rdeepak2002/reddit-place-script-2022.
 
