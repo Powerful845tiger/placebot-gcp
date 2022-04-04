@@ -12,6 +12,15 @@ Based on code from https://github.com/goatgoose/PlaceBot and https://github.com/
 - Supports multiple canvases (2 at the time of writing)
 - Goes to sleep when only few mismatched pixels remain
 
+### Server Specs:
+- **OS:** Debian GNU/Linux 10 (buster) x86_64
+- **RAM:** 8GB to 16GB
+- **Location:** Based on your physical location.
+- **Storage:** Approx 5GB
+- **CPU:**  AMD EPYC (2) 7B12 @ 2.249GHz or Intel Xeon (4) @ 2.199GHz
+
+You can view your exact specs by doing `./specinfo`
+
 ## Launching from the Cloud Console
 To launch a Cloud Shell session from the Cloud Console, click Activate Shell Button Activate Cloud Shell in the Cloud Console(https://console.cloud.google.com/). This launches a session in the bottom pane of Cloud Console.
 
