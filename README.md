@@ -121,4 +121,4 @@ The bot goes to sleep when it detects that there are only a few pixels left to b
 While I was editing this project, I notice that Google has added a quota for each Cloud Shell uses and you can only host your server for the max of `50` hours per `Week`.
 Once you used all of the hours, you can't use it again until next week.
 ### Mixed Server Specs
-Each Cloud Shell session will have different specs of your server based on your physical location so you won't always get the best performance of your server but good news being that it's always the range between `8GB` to `16GB` so you won't have to worry about lag when playing in the server with high processing in your server.
+Each Cloud Shell session will have different specs of your server based on your physical location so you won't always get the best performance of your server but good news being that it's always the range between `8GB` to `16GB` 
